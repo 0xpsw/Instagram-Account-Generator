@@ -5,12 +5,12 @@
 ### Don't be a skid, give credits
 Instagen is an Shell Script to create instagram accounts from command-line.
 
-![instagen](https://user-images.githubusercontent.com/34893261/38256699-47b6e7a0-3735-11e8-915a-16f79ee12827.png)
+![instagen](https://media.discordapp.net/attachments/790298265677463628/891686760277495808/Instagen.PNG)
 
 ### Usage:
 ```
 git clone https://github.com/0xpsw/Instagram-Account-Generator.git
-cd instagen
+cd Instagram-Account-Generator
 chmod +x instagen.sh
 ./instagen.sh
 ```
